@@ -5,9 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-default navbar-fixed-top">
       <div className="container-fluid">
         <div className="navbar-header">
-          <a className="navbar-brand" href="#">
-            Estima Thor
-          </a>
+          <span className="navbar-brand">Estima Thor</span>
         </div>
       </div>
     </nav>

@@ -4,9 +4,6 @@ class CategoryOption extends Component {
   state = {};
   render() {
     const { title, description } = this.props.option;
-
-    console.log(this.props.option);
-
     return (
       <div className="col-sm-4">
         <div className="card">

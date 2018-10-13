@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "How big is your App?",
+    "description": "It´s all about the number of main features imagined",
+    "options": [
+      {
+        "id": 1,
+        "title": "Small",
+        "description": " Your app probably has around 4-5 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 2,
+        "title": "Medium",
+        "description": " Your app probably has around 6-9 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 3,
+        "title": "Pequeno",
+        "description": " Your app probably has around 10-15 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "What level of UI would you like?",
+    "description": "How much effort do you plan to expend on UX, Desing and other Visual Features",
+    "options": [
+      {
+        "id": 3,
+        "title": "MVP",
+        "description": " Minimum Viable Product. Very raw but functional, no UI designer required. ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 4,
+        "title": "Basic",
+        "description": " Still quite basic but pleasing to the eye, perhaps using purchased template. ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 5,
+        "title": "Polished",
+        "description": " Professional bespoke UI design. May also have some animations and transitions etc. ",
+        "effort": "",
+        "cost": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "How big is your App?",
+    "description": "It´s all about the number of main features imagined",
+    "options": [
+      {
+        "id": 6,
+        "title": "Small",
+        "description": " Your app probably has around 4-5 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 7,
+        "title": "Medium",
+        "description": " Your app probably has around 6-9 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      },
+      {
+        "id": 8,
+        "title": "Pequeno",
+        "description": " Your app probably has around 10-15 key feature pages (excluding any static content, sign in, sign up etc.) ",
+        "effort": "",
+        "cost": ""
+      }
+    ]
+  }
+]
